@@ -1,0 +1,44 @@
+@font-face {
+	font-family: "fonts1";
+	src: url("../fonts/10220.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "fonts2";
+	src: url("../fonts/10115.otf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "fonts3";
+	src: url("../fonts/10155.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+@font-face {
+	font-family: "fonts4";
+	src: url("../fonts/gregor/gregor.woff2") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "fonts5";
+	src: url("../fonts/gregor/gregor.woff2") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Material Icons";
+	src: url("../fonts/new/MaterialIcons-Regular.woff2") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
